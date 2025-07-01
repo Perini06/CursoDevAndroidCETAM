@@ -9,7 +9,7 @@ public class Main {
         Aluno aluno2 = new Aluno("Kimberlly", 19, "Teste");
         aluno2.exibirDados();
         
-        Aluno aluno3 = new Aluno("Kimberlly", 19, "Teste");
+        Aluno aluno3 = new Aluno("Kim", 19, "Teste");
         aluno3.exibirDados();
 	}
 
