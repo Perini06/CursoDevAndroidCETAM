@@ -6,7 +6,7 @@ public class Main {
 		Aluno aluno1 = new Aluno("Ryan", 20, "Ciência da Computação");
         aluno1.exibirDados();
         
-        Aluno aluno2 = new Aluno("Teste", 19, "Teste");
+        Aluno aluno2 = new Aluno("Kimberlly", 19, "Teste");
         aluno2.exibirDados();
 	}
 
